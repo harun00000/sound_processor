@@ -1,0 +1,11 @@
+build/
+html/
+latex/
+log.txt
+
+*.wav
+*.mp3
+*.o
+
+.vscode/
+compile_commands.json
